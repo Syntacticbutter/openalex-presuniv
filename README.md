@@ -5,13 +5,14 @@ git clone https://github.com/Syntacticbutter/openalex-presuniv.git
 
 # Overview
 openalex-presuniv is an OpenAlex frontend for browsing works authored by lecturers and students of President University.
+
 ![Overview](static/readme/overview.png)
 
 ## Filtering works
 Works can be filtered by work title, author, publication year, work type, and access status.
 
 ### By work title
-![Filter by work title](static/readme/works.png)
+![Filter by work title](static/readme/autocomplete_work.png)
 
 ### By author
 ![Filter by author](static/readme/autocomplete_author.png)
