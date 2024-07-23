@@ -1,4 +1,28 @@
-# create-svelte
+# Overview
+openalex-presuniv is an OpenAlex frontend for browsing works authored by lecturers and students of President University.
+
+## Filters
+Works can be filtered by work title, author, publication year, work type, and access status.
+
+### By work title
+![Filter by work title](static/readme/works.png)
+
+### By author
+![Filter by author](static/readme/autocomplete_author.png)
+
+### By publication year
+![Filter by publication year](static/readme/filter_year.png)
+
+### By work type
+![Filter by work type](static/readme/autocomplete_type.png)
+
+### By access status
+![Filter by access status](static/readme/filter_status.png)
+
+# Start
+```git clone https://github.com/Syntacticbutter/openalex-presuniv.git```
+
+<!-- # create-svelte
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/main/packages/create-svelte).
 
@@ -35,7 +59,4 @@ npm run build
 
 You can preview the production build with `npm run preview`.
 
-> To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
-
-## Filters
-![Features go here](static/readme/works.png)
+> To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment. -->
