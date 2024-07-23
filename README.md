@@ -20,7 +20,9 @@ Works can be filtered by work title, author, publication year, work type, and ac
 ![Filter by access status](static/readme/filter_status.png)
 
 # Start
-```git clone https://github.com/Syntacticbutter/openalex-presuniv.git```
+```js
+git clone https://github.com/Syntacticbutter/openalex-presuniv.git
+```
 
 <!-- # create-svelte
 
